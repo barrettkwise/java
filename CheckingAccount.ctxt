@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CheckingAccount
+comment1.params=name\ number\ bal\ fees
+comment1.target=CheckingAccount(java.lang.String,\ java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ getBal()
+numComments=3
