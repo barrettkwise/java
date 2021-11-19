@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=test3
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p
+comment2.target=boolean\ check_If_Prime(int)
+numComments=3

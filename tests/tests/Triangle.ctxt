@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Triangle
+comment1.params=
+comment1.target=Triangle()
+comment2.params=x\ y
+comment2.target=Triangle(int,\ int)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+comment5.params=x
+comment5.target=void\ setX(int)
+comment6.params=y
+comment6.target=void\ setY(int)
+comment7.params=
+comment7.target=double\ getArea()
+numComments=8
